@@ -7,6 +7,7 @@ let goodByeMessage = "See you soon"
 
 //The code below print out a good bye message
 print(goodByeMessage)
+
 //Yet another comment
 /*
  This is a comment
