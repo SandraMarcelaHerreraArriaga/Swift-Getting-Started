@@ -43,7 +43,7 @@ let dogName = "sig"
 catName == dogName
 catName != dogName
 
-///Swift determine the lower letters all of that are the final letters from alphabet and the greater all that are the first on alphabet
+///Swift checks what letters come before or after another string when we use lower or greater operator
 catName > dogName
 catName < dogName
 
