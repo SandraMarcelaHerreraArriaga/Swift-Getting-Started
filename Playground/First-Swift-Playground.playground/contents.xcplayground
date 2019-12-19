@@ -4,5 +4,6 @@
         <page name='Comments'/>
         <page name='Booleans-and-Operators'/>
         <page name='Challenge-Boolean-and-comparison-operators'/>
+        <page name='Logical-operators'/>
     </pages>
 </playground>
