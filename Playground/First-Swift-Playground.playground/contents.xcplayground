@@ -7,5 +7,6 @@
         <page name='Logical-operators'/>
         <page name='Challenge-logical-operators'/>
         <page name='Optionals'/>
+        <page name='Challenge-optionals'/>
     </pages>
 </playground>
