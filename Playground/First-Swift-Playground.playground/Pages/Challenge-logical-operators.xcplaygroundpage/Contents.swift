@@ -17,7 +17,7 @@ else{
 }
 
 /*:
- ##Challenge 2
+ ## Challenge 2
  Create a constat named teenagerName, and use a ternary conditional operator to set the value of teenagerName to your own name as a string if the value of myAge , declared above is greater than or equal to 13, but less than or equal to 19, and to set the value of teenagerName to "Not me!" if the value is outside that range
  then print out the value of teenagerName
  */
