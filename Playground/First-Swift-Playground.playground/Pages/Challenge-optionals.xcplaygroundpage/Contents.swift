@@ -6,11 +6,13 @@ import Foundation
  # Challenge - optionals
  
  ## Challenge 1
- You've been provided with a constat below, hasAllergies, which gas been set to true.
+ You've been provided with a constat below, hasAllergies, which has been set to true.
  Below that, declare a Optional string variable named dogName.
  On the next line use a ternary conditional operator to set the value of dogName to nil if hasAllergies is true and to "Mongo" otherwise.
  */
 
+
+let hasAllergies = true
 /*:
 
 ## Challenge 2
