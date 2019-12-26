@@ -5,5 +5,6 @@
         <page name='Booleans-and-Operators'/>
         <page name='Challenge-Boolean-and-comparison-operators'/>
         <page name='Logical-operators'/>
+        <page name='Challenge-logical-operators'/>
     </pages>
 </playground>
