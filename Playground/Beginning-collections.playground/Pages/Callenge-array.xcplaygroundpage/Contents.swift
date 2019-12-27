@@ -11,6 +11,10 @@
  */
 
 var players = ["Alice", "Bob", "Dan", "Eli", "Frank"]
+players.count
+players.contains("Charles")
+players.first
+players.last
 
 
 /*:
@@ -20,12 +24,14 @@ var players = ["Alice", "Bob", "Dan", "Eli", "Frank"]
  
  (a) Insert Charles at index 2 in the array. (b) Add Gloria and Hermione at the end of the array in a single line of code.
  */
-
-
+players.insert("Charles", at: 2)
+players += ["Gloria", "Hermione"]
+print(players)
 
 /*:
  ## Challenge 3
   Create another new constant array named teamOne that consists of the last four members of the players array; that would be the range of elements from 4...7
  */
-
+var teamOne = Array(players[4...7])
+print(teamOne)
 //: [Next](@next)
