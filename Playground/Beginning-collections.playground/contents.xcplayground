@@ -4,5 +4,6 @@
         <page name='Challenge-Tuples'/>
         <page name='Tuples'/>
         <page name='Arrays'/>
+        <page name='Operating-on-arrays'/>
     </pages>
 </playground>
