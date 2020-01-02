@@ -9,5 +9,6 @@
         <page name='More-collections'/>
         <page name='Accessing-and-working-with-dictionaries'/>
         <page name='Dictionary-challenge'/>
+        <page name='Working-with-Sets'/>
     </pages>
 </playground>
