@@ -16,6 +16,12 @@ var pastries: [String] = ["cookie", "danish", "cupcake", "donut", "pie", "browni
 
 
 
+for pastry in pastries {
+    if  pastry.first == "c"{
+        print(pastry)
+    }
+    
+}
 
 /*:
  ## Challenge 2
@@ -25,4 +31,9 @@ var pastries: [String] = ["cookie", "danish", "cupcake", "donut", "pie", "browni
  your output should be the same as in challenge 1.
 
  */
+
+for pastry in pastries where pastry.first == "c"{
+    print(pastry)
+}
+
 //: [Next](@next)
