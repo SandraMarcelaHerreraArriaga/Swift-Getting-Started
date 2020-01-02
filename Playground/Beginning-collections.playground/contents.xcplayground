@@ -6,5 +6,6 @@
         <page name='Arrays'/>
         <page name='Operating-on-arrays'/>
         <page name='Callenge-array'/>
+        <page name='More-collections'/>
     </pages>
 </playground>
