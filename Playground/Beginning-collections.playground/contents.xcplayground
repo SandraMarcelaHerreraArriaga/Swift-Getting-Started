@@ -7,5 +7,6 @@
         <page name='Operating-on-arrays'/>
         <page name='Callenge-array'/>
         <page name='More-collections'/>
+        <page name='Accessing-and-working-with-dictionaries'/>
     </pages>
 </playground>
