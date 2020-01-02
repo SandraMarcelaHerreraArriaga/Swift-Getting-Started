@@ -4,5 +4,6 @@
         <page name='iterating-collections'/>
         <page name='iterating-collections-challenge'/>
         <page name='Nested-loops'/>
+        <page name='Nested-Loops challenge'/>
     </pages>
 </playground>
