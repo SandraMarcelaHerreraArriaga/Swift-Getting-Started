@@ -12,6 +12,8 @@ import Foundation
  
  if pastry[pastry.startIndex] == "c"
  */
+var pastries: [String] = ["cookie", "danish", "cupcake", "donut", "pie", "brownie", "fritter", "cruller"]
+
 
 
 
