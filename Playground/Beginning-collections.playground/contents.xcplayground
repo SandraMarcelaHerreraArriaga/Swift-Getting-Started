@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios'>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
         <page name='Challenge-Tuples'/>
         <page name='Tuples'/>
@@ -8,5 +8,6 @@
         <page name='Callenge-array'/>
         <page name='More-collections'/>
         <page name='Accessing-and-working-with-dictionaries'/>
+        <page name='Dictionary-challenge'/>
     </pages>
 </playground>
