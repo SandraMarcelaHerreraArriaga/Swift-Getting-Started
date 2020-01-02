@@ -15,7 +15,9 @@ import Foundation
  Your for loop should use the where operator to limit the loop to values where i % 5 is equal to zero ( that is, the value of i is evently divisible by 5)
  Print out the value of i inside the loop
  */
-
+for i in 1...100 where i % 5 == 0 {
+        print(i)
+}
 
 /*:
  ## Challenge 2
@@ -26,9 +28,12 @@ import Foundation
  
 print out "Range value is X" where X is the value of rangeStart.
  When you have your loop working, change the rangeStart constant to a different number to create a different range.
- 
  */
 
+let rangeStart = 10
+for i in rangeStart..<rangeStart + 3 {
+    print("Range value is \(i)")
+}
 
 /*:
  ## Challenge 3
@@ -40,5 +45,10 @@ print out "Range value is X" where X is the value of rangeStart.
  Execute your playground a few times to see your name printed out a random number of times.
  */
 
+var randomCount = Int.random(in: 1...5)
+
+for _ in 1...randomCount{
+    print("Sandra")
+}
 
 //: [Next](@next)
